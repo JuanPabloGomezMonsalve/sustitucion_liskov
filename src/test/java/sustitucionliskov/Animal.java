@@ -9,9 +9,4 @@ public class Animal {
     public void dormir() {
         System.out.println("El duerme");
     }
-
-    public void saltar() {
-        System.out.println("El salta");
-    }
-
 }
